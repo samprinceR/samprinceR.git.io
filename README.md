@@ -1,1 +1,1 @@
-# samprinceR.git.io
+# samprinceR.github.io
